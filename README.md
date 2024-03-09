@@ -1,6 +1,6 @@
 rm-fr Takhari
 
-git clone https://github.com/HassanKarimi630/Takhari.git
+git clone https://github.com/HassanKarimi630/Takhari
 
 cd Takhari
 
